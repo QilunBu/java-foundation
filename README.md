@@ -39,3 +39,36 @@ variable, constant, scope
 
 basic operator
 
+
+string connector +:
+System.out.println(a+b+"");
+String at back, the parameters will be executed and the "" will be ignored.
+System.out.println(""+a+b);
+String at first, the parameters will be combined.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
