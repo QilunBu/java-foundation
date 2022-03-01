@@ -46,8 +46,19 @@ String at back, the parameters will be executed and the "" will be ignored.
 System.out.println(""+a+b);
 String at first, the parameters will be combined.
 
+x ? y : z 
+If X is true, then the result is Y, if the x is false, then the result is z.
+example: 
+int score = 80;
+String type = score < 80?"Pass":"Fail"
 
 
+Flow control
+Scanner
+
+Structure
+
+break and continue
 
 
 
