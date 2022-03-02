@@ -61,7 +61,11 @@ I/O flow like scanner, must be shutted down after using. Cauz it takes resources
 scanner.hasNext() Use blank as the finish mark. cannot get string with blank
 scanner.hasNextLine()  Use enter as finish mark. get all.
 
+
 Structure
+flow
+water flow
+select flow
 
 break and continue
 
